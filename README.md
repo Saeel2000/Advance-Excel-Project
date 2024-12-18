@@ -38,3 +38,6 @@ This project analyzes and visualizes a dataset of movies using Advanced Excel fe
 ## Screenshots
 ![Movie analysis 1](Dashboard_1.png)
 
+![Movie analysis 2](Dashboard_2.png)
+
+
